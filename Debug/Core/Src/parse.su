@@ -1,0 +1,4 @@
+../Core/Src/parse.c:12:6:version_parse	24	static
+../Core/Src/parse.c:20:5:so_ky_tu	24	static
+../Core/Src/parse.c:28:7:subStr_pos	40	static
+../Core/Src/parse.c:46:6:firmware_parse	56	static

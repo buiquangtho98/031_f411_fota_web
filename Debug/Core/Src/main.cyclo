@@ -1,0 +1,12 @@
+../Core/Src/main.c:69:6:leds_init	1
+../Core/Src/main.c:80:6:print_pc	1
+../Core/Src/main.c:84:5:Erase	5
+../Core/Src/main.c:115:6:Program	5
+../Core/Src/main.c:143:6:system_reset	1
+../Core/Src/main.c:148:6:firmware_update	3
+../Core/Src/main.c:178:5:main	9
+../Core/Src/main.c:292:6:SystemClock_Config	3
+../Core/Src/main.c:335:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:366:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:397:13:MX_GPIO_Init	1
+../Core/Src/main.c:430:6:Error_Handler	1

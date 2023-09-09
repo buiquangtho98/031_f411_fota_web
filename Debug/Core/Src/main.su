@@ -1,0 +1,12 @@
+../Core/Src/main.c:69:6:leds_init	24	static
+../Core/Src/main.c:80:6:print_pc	16	static
+../Core/Src/main.c:84:5:Erase	32	static
+../Core/Src/main.c:115:6:Program	40	static
+../Core/Src/main.c:143:6:system_reset	16	static
+../Core/Src/main.c:148:6:firmware_update	8	static
+../Core/Src/main.c:178:5:main	32	static
+../Core/Src/main.c:292:6:SystemClock_Config	88	static
+../Core/Src/main.c:335:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:366:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:397:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:430:6:Error_Handler	4	static,ignoring_inline_asm

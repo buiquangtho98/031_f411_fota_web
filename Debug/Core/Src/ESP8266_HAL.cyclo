@@ -1,0 +1,4 @@
+../Core/Src/ESP8266_HAL.c:21:6:ESP_Init	6
+../Core/Src/ESP8266_HAL.c:81:6:bufclr	2
+../Core/Src/ESP8266_HAL.c:88:6:ESP_Get_Latest_Version	6
+../Core/Src/ESP8266_HAL.c:125:6:ESP_Get_Firmware	6
