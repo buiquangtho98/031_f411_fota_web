@@ -34,8 +34,8 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define SSID "Tuan"
-#define PASSWORD "tuankhi2016"
+#define SSID "Tho"
+#define PASSWORD "12345678"
 #define FLASH_ADDRESS_BASE 0x40023C00
 #define SECTOR_A 0x08008000 // Sector 2
 #define SECTOR_B 0x0800C000 // Sector 3
